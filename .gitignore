@@ -1,0 +1,11 @@
+# Ignore environment file
+.env
+
+# Ignore data
+*.csv
+
+# Ignore logs
+**/__pycache__/
+
+# Ignore data
+data/
